@@ -140,6 +140,7 @@
       "tag":"OpenAI",
       "type":"selector",
       "outbounds":[
+        "HongKong",
         "TaiWan",
         "Singapore",
         "Japan",
